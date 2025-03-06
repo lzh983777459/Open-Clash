@@ -1,3 +1,3 @@
 # Open-Clash
 Open Clash
-储存规则用
+open_Clash规则集和转换规则
