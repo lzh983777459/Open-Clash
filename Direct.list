@@ -1,10 +1,10 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 节点专业
-- DOMAIN-SUFFIX,v2ny.de
-- DOMAIN-SUFFIX,c.naiun.cac.cab
-- DOMAIN-SUFFIX,node.tro.cac.cab
-- DOMAIN-SUFFIX,submit.mylac.cn
+DOMAIN-SUFFIX,v2ny.de
+DOMAIN-SUFFIX,c.naiun.cac.cab
+DOMAIN-SUFFIX,node.tro.cac.cab
+DOMAIN-SUFFIX,submit.mylac.cn
 
 # MyList
 # 域名后缀匹配
